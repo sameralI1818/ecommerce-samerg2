@@ -1,0 +1,27 @@
+[30-Oct-2025 21:38:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method AdminsController::actualizar() in C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\modulos\editar.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\administradores.php(30): include()
+#1 C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\admin.php(20): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce-cesar\views\template.php(102): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce-cesar\Controllers\TemplateController.php(6): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce-cesar\index.php(29): TemplateController->showTemplate()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\modulos\editar.php on line 130
+[30-Oct-2025 21:38:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method AdminsController::actualizar() in C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\modulos\editar.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\administradores.php(30): include()
+#1 C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\admin.php(20): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce-cesar\views\template.php(102): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce-cesar\Controllers\TemplateController.php(6): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce-cesar\index.php(29): TemplateController->showTemplate()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\modulos\editar.php on line 130
+[30-Oct-2025 21:38:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method AdminsController::actualizar() in C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\modulos\editar.php:130
+Stack trace:
+#0 C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\administradores.php(30): include()
+#1 C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\admin.php(20): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\ecommerce-cesar\views\template.php(102): include('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\ecommerce-cesar\Controllers\TemplateController.php(6): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\ecommerce-cesar\index.php(29): TemplateController->showTemplate()
+#5 {main}
+  thrown in C:\xampp\htdocs\ecommerce-cesar\views\pages\admin\administradores\modulos\editar.php on line 130
